@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://requirements-syntax-checker.com/sitemap.xml
